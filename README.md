@@ -217,4 +217,4 @@ Todas as rotas usam o prefixo `/api`, recebem e devolvem JSON. Erros seguem o fo
 
 ## Evidências
 
-Coloque os prints da aplicação em `docs/evidencias/` (login, painel, lista com filtros, formulário, detalhe com histórico).
+Prints da aplicação em `docs/evidencias/` (login, painel, lista com filtros, formulário, detalhe com histórico).
